@@ -1,0 +1,13 @@
+name = "BAF"
+uuid = "44db169a-17bc-496b-b04d-7f20f6b70f16"
+authors = ["kaptsanovb <kaptsanovb@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
