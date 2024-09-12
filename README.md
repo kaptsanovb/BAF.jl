@@ -1,6 +1,6 @@
 # BAF
 
-A small Julia library for my binary array format (baf).
+A small Julia library for my binary array format (baf) IN DEVELOPEMENT.
 
 
 ## BAF format header
